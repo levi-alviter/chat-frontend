@@ -1,0 +1,20 @@
+li {
+  /* color: #8eb97c; */
+  color: #FFF;
+  font-size: 1.2rem;
+}
+
+.footer, .list, .list-embebbed {
+  display: flex;
+}
+
+.footer {
+  height: 100%;
+  padding-right: .5rem;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.list {
+  gap: .1rem;
+}

@@ -1,0 +1,9 @@
+.outlet {
+  position: fixed;
+  top: 10vh;
+  right: 0;
+  height: 78vh;
+  width: 85%;
+  background-color: #000;
+  padding: 0.5rem;
+}

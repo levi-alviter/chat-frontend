@@ -1,0 +1,23 @@
+
+@font-face {
+  font-family: 'JetBrainsMono';
+  src: url(./assets/fonts/JetBrainsMono-Medium.ttf),
+    url(./assets/fonts/JetBrainsMono-Regular.ttf)
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: JetBrainsMono;
+}
+
+li {
+  list-style: none;
+  margin-left: .5rem;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}

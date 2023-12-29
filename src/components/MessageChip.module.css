@@ -1,0 +1,27 @@
+.message-chip {
+  margin-top: .2rem;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+  width: 100%;
+  gap: 1rem;
+}
+
+.message-chip span {
+  font-size: 1.2rem;
+}
+
+.author {
+  color: #FFF;
+}
+
+.content {
+  /* color: #5c804b; */
+  color: #FFF;
+  flex-grow: 1;
+  word-wrap: break-word;
+}
+
+.is-mine span {
+  color: #F00;
+}
